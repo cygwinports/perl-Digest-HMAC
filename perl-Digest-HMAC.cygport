@@ -1,0 +1,11 @@
+CPAN_AUTHOR="gaas"
+inherit perl
+
+NAME="perl-Digest-HMAC"
+VERSION=1.03
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="HMAC digest support for Perl"
+DESCRIPTION="HMAC is used for message integrity checks between two parties that
+share a secret key, and works in combination with some other Digest algorithm,
+usually MD5 or SHA-1.  The HMAC mechanism is described in RFC 2104."
